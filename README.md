@@ -188,8 +188,8 @@ Controle de entrada de veiculos para carga e descarga de fruto e oléo.        <
         <h3>CONTATO</h3>
         <div class="emal">
             <ul id="contato">
-                <li><a href="mailto:vagno.silva.silva@outlook.com"> <i class="fa-regular fa-envelope"></i> vagno.silva.silva@outlook.com</a></li>
-                <li><a href="https://api.whatsapp.com/send?phone=5591993289942"><i class="fa-brands fa-whatsapp"></i> (91)993289942</a></li>
+                <li><a href="mailto:randerson.fs.97@gmail.com"> <i class="fa-regular fa-envelope"></i> randerson.fs.97@gmail.com</a></li>
+                <li><a href="https://api.whatsapp.com/send?phone=5591993801252"><i class="fa-brands fa-whatsapp"></i> (91) 9 9380-1252</a></li>
                
                 <li><a href="https://www.linkedin.com/in/vagnosilvadasilvadev/" target="_blank"> <i class="fa-brands fa-linkedin"></i> linkedin meu perfil</a></li>
             </ul>
