@@ -13,7 +13,7 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
 
 <header>
     <div class="imagem_logo">
-        <img class="logo" src="img/WhatsApp Image 2025-03-24 at 8.29.09 PM.jpeg" alt="image_Vagno">
+        <img class="logo" src="img/WhatsApp Image 2025-03-24 at 8.29.09 PM.jpeg" alt="Randerson_souza">
     </div>
     <div class="titulo">
         <h1>RANDERSON FARIAS DE SOUZA</h1>
